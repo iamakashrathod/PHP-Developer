@@ -1,0 +1,21 @@
+body{
+    background:#f5f5f5 !important;
+}
+.navbar{
+	border-radius:0px !important;
+}
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+ }
+.btnGray{
+    background:#ccc;
+    font-weight:bold;
+}
+.btnGary:hover{
+    background:#ddd;
+}
+.lab{
+    font-size:12px !important;
+    color:#666;
+}
